@@ -27,3 +27,8 @@ After preparing the data by those mentioned above, you could use the script `tra
 ``` bash
 bash train.sh
 ```
+
+# Grad-cam visualization
+After training, we used grad cam to visualize where the model focuses. The visualization results are shown below.
+<img src="https://github.com/come880412/crop_classification/blob/main/images/160118-3-0086.jpg" width=50% height=50%>
+<img src="https://github.com/come880412/crop_classification/blob/main/images/20170205-1-0021.jpg" width=50% height=50%>
