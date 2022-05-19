@@ -30,5 +30,7 @@ bash train.sh
 
 # Grad-cam visualization
 After training, we used grad cam to visualize where the model focuses. The visualization results are shown below.
-<img src="https://github.com/come880412/crop_classification/blob/main/images/160118-3-0086.jpg" width=50% height=50%>
-<img src="https://github.com/come880412/crop_classification/blob/main/images/20170205-1-0021.jpg" width=50% height=50%>
+<img src="https://github.com/come880412/crop_classification/blob/main/images/20171129-1-0165.jpg" width=41% height=41%>|<img src="https://github.com/come880412/crop_classification/blob/main/images/20180626-3-0028.jpg" width=40% height=40%>
+<img src="https://github.com/come880412/crop_classification/blob/main/images/160118-3-0086.jpg" width=41% height=41%>|<img src="https://github.com/come880412/crop_classification/blob/main/images/20170205-1-0021.jpg" width=40% height=40%>
+
+These results show that our model learns the most important features in the corresponding class, instead of overfitting some unimportant features.
