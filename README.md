@@ -33,4 +33,5 @@ bash train.sh
 <img src="https://github.com/come880412/crop_classification/blob/main/images/20171129-1-0165.jpg" width=41% height=41%>|<img src="https://github.com/come880412/crop_classification/blob/main/images/20180626-3-0028.jpg" width=40% height=40%>
 <img src="https://github.com/come880412/crop_classification/blob/main/images/160118-3-0086.jpg" width=41% height=41%>|<img src="https://github.com/come880412/crop_classification/blob/main/images/20170205-1-0021.jpg" width=40% height=40%>
 
-- These results show that our model learns the most important features in the corresponding class, instead of overfitting some unimportant features.
+- These results show that our model learns the most important features in the corresponding class, instead of overfitting on some unimportant features.
+- If you have any questions, feel free to send me an email! come880412@gmail.com
