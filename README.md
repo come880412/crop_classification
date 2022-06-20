@@ -1,6 +1,6 @@
 # Crop_classification
-Competition for 2022 AI Cup "農地作物現況調查影像辨識競賽 - 春季賽：AI作物影像判釋" (3rd place) \
-Competition URL: https://aidea-web.tw/topic/93c8c26b-0e96-44bc-9a53-1c96353ad340
+Competition URL: https://aidea-web.tw/topic/93c8c26b-0e96-44bc-9a53-1c96353ad340 \
+Private Leaderboard: 3 / 428 (Top 1%)
 
 # Getting started
 - Clone this repo to your local
